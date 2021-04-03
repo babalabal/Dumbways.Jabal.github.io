@@ -75,6 +75,7 @@ Soal Nomor 8
     1. 
 Buatlah sebuah aplikasi statis seperti jekyll atau hugo, kemudian upload aplikasi tersebut dari komputer lokal ke github pages (https://pages.github.com), agar aplikasi tersebut dapat diakses secara publik.Contoh : sgnd.github.io Sertakan screenshot step by step-nya atau record menjadi sebuah video 
 Bobot: (5)
+https://github.com/babalabal/JabalT.github.io.git
 1. Install Hugo
 https://github.com/babalabal/Dumbways.Jabal.github.io/blob/main/Images%20and%20Video/08%20step%201.png
 
