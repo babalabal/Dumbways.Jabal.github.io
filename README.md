@@ -100,8 +100,8 @@ https://github.com/babalabal/Dumbways.Jabal.github.io/blob/main/Images%20and%20V
 https://github.com/babalabal/Dumbways.Jabal.github.io/blob/main/Images%20and%20Video/08%20step%206.png
 
 
-7. https://github.com/babalabal/Dumbways.Jabal.github.io/blob/main/Images%20and%20Video/08%20step%207.pngUploading our files to repository github
-
+7. Uploading our files to repository github
+https://github.com/babalabal/Dumbways.Jabal.github.io/blob/main/Images%20and%20Video/08%20step%207.png
 
 8. File Uploaded at repository github.com/babalabal/JabalT.github.io
 https://github.com/babalabal/Dumbways.Jabal.github.io/blob/main/Images%20and%20Video/08%20step%208.png
